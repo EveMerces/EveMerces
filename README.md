@@ -2,11 +2,7 @@
 
 I'm Evelyn Mercês, a passionate developer with a diverse skill set! 🌱
 
-!Profile Banner
-
-## 🚀 About Me
-
-- 💻 I have experience in **Python**, **HTML**, **CSS**, **JavaScript**, **Git**, **SQLite**, **Spark**, **Docker**, **AWS**, **Linux Ubuntu**, and **Anaconda**.
+![Profile Banner](https://via.placeholder.com/800x200.png?text=Welcome+to+My+Git **CSS**, **JavaScript**, **Git**, **SQLite**, **Spark**, **Docker**, **AWS**, **Linux Ubuntu**, and **Anaconda**.
 - 🎨 I also work with **Figma** for interface design.
 - 🌐 I'm always eager to learn and improve my skills in new technologies.
 
@@ -15,43 +11,26 @@ I'm Evelyn Mercês, a passionate developer with a diverse skill set! 🌱
 ## 🛠️ Technologies and Tools
 
 ### Programming Languages
-- Python
-- JavaScript
+- !Python
+- !JavaScript
 
 ### Front-End
-- HTML
-- CSS
-
-### Back-End
-- SQLite
-- Spark
-
-### DevOps
-- Docker
-- AWS
-
-### Operating Systems
-- Linux Ubuntu
-
-### Development Tools
-- Git
-- Anaconda
+- !HTML
+- ![CSS](https://upload.wikimedia.org/wk](https://upload.wikimedia.org/wikipediapload.wikimedia.org/wikipedia/commons/9/ment Tools
+- !Git
+- !Anaconda
 
 ### Design
-- Figma
-
-## 📈 GitHub Stats
-
-!GitHub Stats
+- ![Figma](https://upload.wikimedia.orgtats
 
 ## 📫 How to Reach Me
 
-- [LinkedIn](https://www.linkedin.com/in/yourusername/)
-- [Portfolio](https://www.yourportfolio.com)
+- LinkedIn
+- Portfolio
 
 ## 🌟 Featured Projects
 
-- Project 1: Brief description of the project.
+- [Project 1](https://github.com/YourUsername/Project1): Brief description of the project.
 - Project 2: Brief description of the project.
 
 ## 🎉 Contributions
@@ -61,6 +40,6 @@ I'm Evelyn Mercês, a passionate developer with a diverse skill set! 🌱
 ---
 
 !Octocat
-![FunGIF
+!Fun GIF
 
 
