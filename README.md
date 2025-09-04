@@ -9,7 +9,7 @@
 
 ### Sobre mim
 
-- 🌱 Apaixonada por tecnologia e sempre explorando novas ferramentas e arquiteturas
+- 🌱 Apaixonada por tecnologia e aprendizado contínuo 
 - 💻 Focada em **Engenharia de Dados, Arquitetura e Desenvolvimento Back-End**
 - 🔭 Atualmente trabalho na **RTM**
 - 🎓 Bacharelado em **Sistemas de Informação** (em andamento)
