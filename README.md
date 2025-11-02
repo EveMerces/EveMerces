@@ -1,7 +1,7 @@
-# 👋 Olá, seja bem-vindo(a) ao meu perfil!  
+#Olá, seja bem-vindo(a) ao meu perfil!  
 ### Eu sou **Evelyn Merces**  
 
-### Entre minhas paixões por esportes, músicas e livros, está a minha grande paixão pela área tech 👾  
+### Entre minhas paixões por esportes, músicas e livros,existe a minha grande paixão pela área tech 👾  
 
 <p align="center">
   <img src="https://camo.githubusercontent.com/2274691750a28de931610ab63f4885f97dc0fb8077a9d7c10922a6e504bcf7f7/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f734f7a4877663144463868393641357458552f67697068792e676966" alt="Gato codando" width="420"/>
@@ -15,8 +15,8 @@
 - 🧠 Experiência em **Engenharia de Dados**, **Arquitetura de Dados** e **Desenvolvimento Back-End**
 - ⚙️ Apoio na construção de pipelines **ETL/ELT**, integração de dados e visualização analítica  
 - 🎓 **Bacharelado em Sistemas de Informação** (em andamento)  
-- 🌱 Sempre aprendendo e explorando novas tecnologias em **dados, cloud e automação**
-- 💬 Pergunte-me sobre **Infraestrutura, Lakehouse, Trino, Iceberg, Grafana, Metabase, Cloud & BI**
+- 🌱 Sempre aprendendo e explorando novas tecnologias em **infraestrutura,dados, cloud e automação**
+- 💬 Pergunte-me sobre **Infraestrutura, Arquitetura de Dados, ETL/ELT & Back-End**
 - 📫 Contato: [evelynmercesdasilva@gmail.com](mailto:evelynmercesdasilva@gmail.com)
 
 ---
